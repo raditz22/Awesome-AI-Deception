@@ -7,7 +7,7 @@ A comprehensive collection of AI‑driven deception resources including honeypot
 - [LLM: Datasets / Models](#llm-datasets--models)
 - [Research](#research)
 - [Tools](#tools)
-- [Video](#video)
+- [Video Podcasts](#video-podcasts)
 - [Websites](#websites)
 - [Articles](#articles)
 
@@ -40,11 +40,12 @@ A comprehensive collection of AI‑driven deception resources including honeypot
 - [OpenAIPot](https://github.com/referefref/OpenAIPot) – Deceptive OpenAI API gateway honeypot.  
 - [VelLMes AI Deception Framework](https://github.com/stratosphereips/VelLMes-AI-Deception-Framework) – Dynamic, realistic LLM honeypots.  
 
-## Video
+## Video Podcasts
 - **AI Driven Honeypot System for Detecting Network Attacks – Moina Vernon CSAF 2024** – https://www.youtube.com/watch?v=dbnXSBfDPO8  
 - **AI Honeypot – Hackers Took the Bait!** – https://www.youtube.com/watch?v=DOYh3HsDUlo  
-- **Fool Hackers with AI! Creating a Realistic Honeypot using Gemini** – https://www.youtube.com/watch?v=owAVKKNzZwQ  
-- **Splunk AI Powered Honeypot** – https://www.youtube.com/watch?v=RVS7YJt7hSw  
+- **Fool Hackers with AI! Creating a Realistic Honeypot using Gemini** – https://www.youtube.com/watch?v=owAVKKNzZwQ
+- **Mastering the Art of Deception in Cybersecurity** – https://www.youtube.com/watch?v=-Ed2wguSU6c  
+- **Splunk AI Powered Honeypot** – https://www.youtube.com/watch?v=RVS7YJt7hSw
 
 ## Websites
 - [AI HoneyTokens](https://neroswarm.com/tools/honey-tokens) – AI‑powered HoneyTokens generation.  
